@@ -1,0 +1,7 @@
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\bin\Debug\Bits '24 C01.exe.config
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\bin\Debug\Bits '24 C01.exe
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\bin\Debug\Bits '24 C01.pdb
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\obj\Debug\Bits '24 C01.csproj.AssemblyReference.cache
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\obj\Debug\Bits '24 C01.csproj.CoreCompileInputs.cache
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\obj\Debug\Bits '24 C01.exe
+C:\Users\TheRPlayer12\source\repos\Bits '24 C01\obj\Debug\Bits '24 C01.pdb
